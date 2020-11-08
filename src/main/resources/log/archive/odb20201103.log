@@ -1,0 +1,479 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 10:48:00 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 14160@DESKTOP-S2ST51D
+
+[2020-11-03 10:48:00 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 10:48:00 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 10:48:00 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 10:48:00 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 10:48:00 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 10:48:00 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:28:17 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 13188@DESKTOP-S2ST51D
+
+[2020-11-03 18:28:17 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:28:17 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:28:17 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:28:17 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:28:17 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:28:17 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:28:17 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:28:17 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:28:17 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:28:17 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:28:17 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:30:20 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 6628@DESKTOP-S2ST51D
+
+[2020-11-03 18:30:20 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:30:20 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:30:20 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:30:20 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:30:20 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:30:20 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:30:20 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:30:20 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:30:20 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:30:20 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:30:20 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:31:47 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 16700@DESKTOP-S2ST51D
+
+[2020-11-03 18:31:47 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:31:47 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:31:47 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:31:47 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:31:47 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:31:47 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:31:47 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:31:47 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:31:47 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:31:47 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:31:47 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:32:38 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 16688@DESKTOP-S2ST51D
+
+[2020-11-03 18:32:38 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:32:38 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:32:38 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:32:38 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:32:38 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:32:38 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:32:38 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:32:38 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:32:38 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:32:38 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:32:38 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:34:22 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 13432@DESKTOP-S2ST51D
+
+[2020-11-03 18:34:22 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:34:22 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:34:22 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:34:22 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:34:22 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:34:22 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:34:22 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:34:22 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:34:22 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:34:22 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:34:22 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:37:19 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 8584@DESKTOP-S2ST51D
+
+[2020-11-03 18:37:19 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:37:19 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:37:19 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:37:19 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:37:19 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:37:19 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:37:19 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:37:19 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:37:19 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:37:19 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:37:19 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:38:14 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 8452@DESKTOP-S2ST51D
+
+[2020-11-03 18:38:14 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:38:14 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:38:14 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:38:14 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:38:14 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:38:14 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:38:14 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:38:14 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:38:14 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:38:14 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:38:14 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:47:25 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 11572@DESKTOP-S2ST51D
+
+[2020-11-03 18:47:25 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:47:25 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:47:25 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:47:25 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:47:25 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:47:25 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:47:25 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:47:25 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:47:25 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:47:25 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:47:25 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 18:47:29 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 10316@DESKTOP-S2ST51D
+
+[2020-11-03 18:47:29 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 18:47:29 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 18:47:29 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 18:47:29 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 18:47:29 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 18:47:29 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 18:47:29 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 18:47:29 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 18:47:29 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 18:47:29 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 18:47:29 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 19:20:01 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 5936@DESKTOP-S2ST51D
+
+[2020-11-03 19:20:01 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 19:20:01 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 19:20:01 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 19:20:01 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 19:20:01 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 19:20:01 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 19:20:01 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 19:20:01 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 19:20:01 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 19:20:01 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 19:20:01 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 19:24:12 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 6532@DESKTOP-S2ST51D
+
+[2020-11-03 19:24:12 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 19:24:12 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 19:24:12 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 19:24:12 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 19:24:12 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 19:24:12 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 19:24:12 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 19:24:12 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 19:24:12 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 19:24:12 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 19:24:12 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-03 19:52:31 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 6540@DESKTOP-S2ST51D
+
+[2020-11-03 19:52:31 #2 type.registry] 
+New type domain.Question
+
+[2020-11-03 19:52:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-03 19:52:32 #4 type.registry] 
+New type domain.Event
+
+[2020-11-03 19:52:32 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-03 19:52:32 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-03 19:52:32 #7 type.registry] 
+New type domain.User
+
+[2020-11-03 19:52:32 #8 type] 
+Type domain.User is not enhanced.
+
+[2020-11-03 19:52:32 #9 type.registry] 
+New type domain.Bet
+
+[2020-11-03 19:52:32 #10 type.registry] 
+New type java.util.Vector<domain.Bet>
+
+[2020-11-03 19:52:32 #11 type] 
+Type domain.Bet is not enhanced.
+
+[2020-11-03 19:52:32 #12 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

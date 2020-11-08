@@ -1,0 +1,190 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:11:05 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' has been recovered (tr. 17-28)
+
+[2020-11-02 20:11:05 #2 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 2472@DESKTOP-S2ST51D
+
+[2020-11-02 20:11:05 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:11:05 #4 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:12:01 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 11616@DESKTOP-S2ST51D
+
+[2020-11-02 20:12:01 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:12:01 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:12:16 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 15220@DESKTOP-S2ST51D
+
+[2020-11-02 20:12:16 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:12:16 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:14:35 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 14752@DESKTOP-S2ST51D
+
+[2020-11-02 20:14:35 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:14:35 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:15:19 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 14092@DESKTOP-S2ST51D
+
+[2020-11-02 20:15:19 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:15:19 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:15:48 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' has been recovered (tr. 29-29)
+
+[2020-11-02 20:15:48 #2 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 15792@DESKTOP-S2ST51D
+
+[2020-11-02 20:15:48 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:15:48 #4 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:19:19 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 13476@DESKTOP-S2ST51D
+
+[2020-11-02 20:19:19 #2 type.registry] 
+New type domain.Question
+
+[2020-11-02 20:19:19 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-02 20:19:19 #4 type.registry] 
+New type domain.Event
+
+[2020-11-02 20:19:19 #5 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:19:19 #6 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-02 20:19:19 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:19:58 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 1760@DESKTOP-S2ST51D
+
+[2020-11-02 20:19:58 #2 type.registry] 
+New type domain.Event
+
+[2020-11-02 20:19:58 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:19:58 #4 type.registry] 
+New type domain.Question
+
+[2020-11-02 20:19:58 #5 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2020-11-02 20:19:58 #6 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:23:55 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' has been recovered (tr. 1-3)
+
+[2020-11-02 20:23:55 #2 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 16424@DESKTOP-S2ST51D
+
+[2020-11-02 20:23:55 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:23:55 #4 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-02 20:23:55 #5 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:43:57 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' has been recovered (tr. 4-5)
+
+[2020-11-02 20:43:57 #2 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 8676@DESKTOP-S2ST51D
+
+[2020-11-02 20:43:57 #3 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:43:57 #4 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:45:01 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 5624@DESKTOP-S2ST51D
+
+[2020-11-02 20:45:01 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:45:01 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:45:16 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 3296@DESKTOP-S2ST51D
+
+[2020-11-02 20:45:16 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:45:16 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:45:21 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 17092@DESKTOP-S2ST51D
+
+[2020-11-02 20:45:22 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:45:22 #3 type] 
+Type domain.Question is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-02 20:46:05 #1 store] 
+Database 'C:\Users\Mikel Iturria\eclipse\TERCERO\WS\Bets01_2021\src\main\resources\bets.temp' is opened by 1544@DESKTOP-S2ST51D
+
+[2020-11-02 20:46:05 #2 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-02 20:46:05 #3 type] 
+Type domain.Question is not enhanced.
+
