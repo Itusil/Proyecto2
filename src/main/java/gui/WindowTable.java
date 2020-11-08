@@ -14,6 +14,7 @@ public class WindowTable extends JFrame{
 	private JTable tabla;
 	public WindowTable(User user){
 		super("Apuestas realizadas por "+ user.getNombreUsuario()+":");
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //Lo añado porque sino en la prueba se quedaba abierto pese a cerrar la ventana
 		this.setBounds(100, 100, 700, 200);
 		this.user = user;
 		UserAdapter adapt = new UserAdapter(user);
